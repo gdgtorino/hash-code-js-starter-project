@@ -43,4 +43,31 @@ or
 $ npm run test
 ```
 
+## Command line alias
+
+To create a command line alias for launching your program with a single keyword add a `bin` property in `package.json`
+pointing to `index.js`:
+
+```json
+{
+  ...
+  "bin": {
+    "hashcode": "./index.js"
+  },
+  ...
+}
+```
+
+then run:
+
+```bash
+$ npm run link
+```
+
+Now you can launch you program with the `hashcode` alias:
+
+```bash
+$ hashcode <inputFile> <outpuFile>
+```
+
 ![GDG Torino](https://lh3.googleusercontent.com/-thBiI0v5PDw/Vv1A_ip3jXI/AAAAAAAACG0/41EgiBEUg-ARAAoQDFIT0Cit0d8574RMA/w750-h750/gdg-logo%2Bhi-res.png)
