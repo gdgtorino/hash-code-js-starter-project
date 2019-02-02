@@ -19,7 +19,7 @@
     "gdg-torino"
   ],
   "author": "Umberto Pepato",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/gdgtorino/hash-code-js-starter-project/issues"
   },
