@@ -1,0 +1,27 @@
+{
+  "name": "hash-code-js-starter-project",
+  "version": "1.0.0",
+  "description": "A js starter project for Google's HashCode competition by GDG Torino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdgtorino/hash-code-js-starter-project.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "npm",
+    "hashcode",
+    "starter-project",
+    "gdg-torino"
+  ],
+  "author": "Umberto Pepato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdgtorino/hash-code-js-starter-project/issues"
+  },
+  "homepage": "https://github.com/gdgtorino/hash-code-js-starter-project#readme"
+}
