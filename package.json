@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/gdgtorino/hash-code-js-starter-project/issues"
   },
-  "homepage": "https://github.com/gdgtorino/hash-code-js-starter-project#readme"
+  "homepage": "https://github.com/gdgtorino/hash-code-js-starter-project#readme",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
 }
